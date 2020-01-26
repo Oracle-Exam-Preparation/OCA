@@ -1,0 +1,1 @@
+package com.trl.array.static_;

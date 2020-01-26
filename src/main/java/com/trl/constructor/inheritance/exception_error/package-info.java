@@ -1,0 +1,1 @@
+package com.trl.constructor.inheritance.exception_error;

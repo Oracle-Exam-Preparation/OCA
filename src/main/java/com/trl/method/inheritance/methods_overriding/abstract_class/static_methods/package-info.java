@@ -1,0 +1,1 @@
+package com.trl.method.inheritance.methods_overriding.abstract_class.static_methods;
